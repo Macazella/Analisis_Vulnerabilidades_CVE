@@ -1,0 +1,5 @@
+# Ignorar la carpeta de entorno virtual y otros archivos innecesarios
+venv/
+__pycache__/
+.DS_Store
+*.log
