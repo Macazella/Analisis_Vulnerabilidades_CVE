@@ -1,5 +1,7 @@
 # Analisis_Vulnerabilidades_CVE
 "Análisis de vulnerabilidades CVE reportadas en 2024 y 2025 con visualización en Power BI."
+
+
 🔹 1. Objetivo del Proyecto
 
 El análisis busca identificar tendencias en la cantidad de vulnerabilidades reportadas (CVEs) en los años 2024 y 2025, destacando los fabricantes y productos más afectados. Se emplearon herramientas de Power BI para la visualización de datos y Python para el procesamiento y transformación de los mismos.
